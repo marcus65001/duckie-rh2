@@ -14,6 +14,7 @@ dt-launchfile-init
 
 # launching app
 dt-exec python3 -m "hello.hello"
+dt-exec python3 -m "hello.numpy_test"
 
 
 # ----------------------------------------------------------------------------
